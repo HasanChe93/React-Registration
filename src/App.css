@@ -1,0 +1,26 @@
+.sign-up {
+  background-color: #ff7900;
+  font-weight: bold;
+}
+.nav-link{
+  font-weight: bold !important;
+  color: black !important;
+}
+.nav-link:hover {
+  color: #ff7900 !important;
+  
+}
+.hide {
+  width: 20px;
+  height: 20px;
+}
+#carouselExampleSlidesOnly {
+  width: 100%;
+}
+
+.star {
+  color: red;
+}
+small{
+  font-weight: bold;
+}
